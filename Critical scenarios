@@ -1,0 +1,3 @@
+Describe in details at least 2 the most critical scenarios (1 positive and 1 negative) to test “Rent a car” form functionality of https://www.lyft.com/rider/rentals.
+Positive scenario: Successful renting of a car by providing user's driver's license, user should be above 25years of age.
+Negative scenario: Renting of a car should not be allowed withput providing valid driver's license or if user is below 25years of age.
