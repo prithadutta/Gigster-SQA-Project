@@ -1,0 +1,3 @@
+Investigate and find defects on the web-site http://automationpractice.com. Create detailed description for all defects found and share the report
+Follow us on Facebook section in the webpage does not have any facebook link to be linked. It has a blank test box instead. This is a major defect.
+Call Us section inthe webpage does not have any contact number. It has Selenium framework button instead which takes to a different webpage. This is a major defect.
