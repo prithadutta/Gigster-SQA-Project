@@ -1,0 +1,5 @@
+Create high level Test Plan for "Rent a car" functionality of https://www.lyft.com/rider/rentals
+Purpose and Scope: The objective of this Test Plan is to test "Rent a car" feature for https://www.lyft.com/rider/rentals
+Test Strategy/Approah: We will test the feature with and without logging in/sign up.
+Features to be tested: Reserve a car feature shall be tested for all 28 major cities available for all 5types of car options available and for any date range.
+Hardware/Software Requirement: This feature should be tested in windows OS 
